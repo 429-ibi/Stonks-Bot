@@ -12,7 +12,7 @@
 - python
 - Utilized Packages
   - python.py
-  - yfinace
+  - yfinance
   - mplfinance 
   - beautifulsoup   
 
